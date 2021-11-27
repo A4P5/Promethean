@@ -1,0 +1,23 @@
+{------------------------}
+-------------------------
+-=- Promethean Client -=-
+-------------------------
+
+
+- INFO
+
+When running this client it will sent data to random ip adresses,
+and therefore most likely crash your current internet.
+
+
+- HOW TO USE
+
+1. Start "Promethean.exe"
+
+2. Enter which port the bytes should be sent from.
+
+3. Enter amount of threads (Not above 5000)
+
+4. Press START button.
+
+{------------------------}
